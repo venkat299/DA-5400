@@ -1,0 +1,8 @@
+*.zip
+.DS_Store
+*/__pycache__
+.vscode/*
+__pycache__/*
+
+*.tar.gz
+
